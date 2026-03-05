@@ -5,7 +5,7 @@ import { products } from '../../starting-code/data/products';
 export function HomePage() {
     return (
         <>
-            <title>Ecommerce Project</title>
+            <title>Ecommerce Projectt</title>
 
             <Header />
 
